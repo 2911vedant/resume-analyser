@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyser",
+  "description": "An AI-powered resume evaluator that checks keyword match, grades format and content, and offers career and optimization suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
